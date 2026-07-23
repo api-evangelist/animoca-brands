@@ -1,0 +1,24 @@
+generated: '2026-07-17'
+method: searched
+host: https://www.animocabrands.com
+source: https://www.animocabrands.com/llms.txt
+documents:
+- path: /.well-known/agents.json
+  status: 200
+  file: animoca-brands-agents.json
+  note: 'Agentic-web identity manifest (schema_version 2.0): provider, capabilities,
+    products, content map, AI permissions (allow_indexing/training/citation), contacts, entity facts.'
+- path: /.well-known/master-map.json
+  status: 200
+  file: animoca-brands-master-map.json
+  note: 'schema.org JSON-LD @graph describing the Organization and its ecosystem entities.'
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404

@@ -1,8 +1,14 @@
 aid: animoca-brands
 name: Animoca Brands
-description: 'Animoca Brands is a company surfaced as a portfolio company of softbank-vision-fund and
-  added to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: 'Animoca Brands is a Web3 company focused on advancing digital property rights and building
+  the open metaverse through blockchain technology, gaming, and digital assets. Founded in Hong Kong,
+  the company operates a portfolio of consumer products including The Sandbox, Moca Network (digital
+  identity), Open Campus (education), and Anichess, alongside institutional offerings such as Anchorpoint
+  Financial (stablecoins and real-world assets) and NUVA (treasury management). Animoca Brands is also
+  one of the most active investors in Web3, backing 600+ builders across gaming, infrastructure, real-world
+  assets, and digital-ownership platforms. This profile was surfaced as a portfolio company of the SoftBank
+  Vision Fund and added to the API Evangelist network; Animoca operates primarily as a holding and
+  investment company and does not publish a first-party public developer API.'
 url: https://raw.githubusercontent.com/api-evangelist/animoca-brands/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,15 +16,56 @@ x-backed-by:
 - softbank-vision-fund
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
 modified: '2026-07-17'
+image: https://cdn.prod.website-files.com/694b47ff8f3088ab9288889c/694b47ff8f3088ab928888ff_logo.svg
 tags:
 - Company
 - Consumer
+- Web3
+- Blockchain
+- Gaming
+- Metaverse
+- Digital Assets
+- Cryptocurrency
+- Investment
 apis: []
+common:
+- type: DomainSecurity
+  url: security/animoca-brands-domain-security.yml
+- type: WellKnown
+  url: well-known/animoca-brands-well-known.yml
+- type: AIPREF
+  url: well-known/animoca-brands-agents.json
+- type: LLMsTxt
+  url: llms/animoca-brands-llms.txt
+- type: Website
+  url: https://www.animocabrands.com
+- type: Blog
+  url: https://www.animocabrands.com/newsroom
+- type: PrivacyPolicy
+  url: https://policy.animocabrands.com/privacy-policy-website
+- type: TermsOfService
+  url: https://policy.animocabrands.com/terms-of-use-for-non-apple-platforms
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

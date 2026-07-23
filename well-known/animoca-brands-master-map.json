@@ -1,0 +1,466 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.animocabrands.com/#organization",
+      "name": "Animoca Brands",
+      "legalName": "Animoca Brands Corporation Limited",
+      "alternateName": [
+        "Animoca"
+      ],
+      "url": "https://www.animocabrands.com",
+      "description": "Animoca Brands Corporation Limited (ACN: 122 921 813) is a global digital assets leader building and investing in impactful technologies and ecosystems to reimagine future economies through AI and the agentic web. It has received broad industry and market recognition including Fortune Crypto 40, Top 50 Blockchain Game Companies 2025, Financial Times’ High Growth Companies Asia-Pacific, and Deloitte Tech Fast. Animoca Brands is recognized for building digital asset platforms such as the Moca Network, Open Campus, Anichess, and The Sandbox, as well as institutional-grade platforms; providing digital asset services to help Web3 companies launch and grow; and investing in frontier Web3 technology, with a portfolio of over 600 companies and digital assets.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "acn",
+          "value": "122 921 813"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "incorporation",
+          "value": "Australia"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "operatingModel",
+          "value": "Investor-operator flywheel across Build, Invest, and Accelerate"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "portfolioSize",
+          "value": "600+ companies across 20+ verticals"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "portfolioUrl",
+          "value": "https://www.animocabrands.com/our-portfolio"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "investmentThesis",
+          "value": "Animoca Brands manages 600+ strategic investments across 20+ verticals through its investor-operator flywheel model. The portfolio is built on a diversified altcoin treasury strategy, proven monetization with 9-figure topline across multiple market cycles, and operational expertise deployed to drive project success across best-in-class digital assets projects powered by institutional partners and regulatory excellence."
+        }
+      ],
+      "foundingDate": "2014",
+      "foundingLocation": {
+        "@type": "Place",
+        "name": "Hong Kong",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Hong Kong",
+          "addressCountry": "HK"
+        }
+      },
+      "founder": {
+        "@id": "https://www.animocabrands.com/#yatsiu"
+      },
+      "numberOfEmployees": {
+        "@type": "QuantitativeValue",
+        "value": 600
+      },
+      "knowsAbout": [
+        "Agentic AI",
+        "Decentralized Finance",
+        "Real World Assets",
+        "Tokenization",
+        "Digital Asset Management",
+        "Digital Property Rights",
+        "Hong Kong Stablecoin",
+        "Venture Capital"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Animoca_Brands",
+        "https://www.wikidata.org/wiki/Q4765195",
+        "https://www.crunchbase.com/organization/animoca-brands-corporation",
+        "https://www.coingecko.com/en/categories/animoca-brands",
+        "https://github.com/animocabrands",
+        "https://x.com/animocabrands",
+        "https://www.linkedin.com/company/animoca-brands"
+      ],
+      "subOrganization": [
+        {
+          "@id": "https://www.animocabrands.com/#moca-network"
+        },
+        {
+          "@id": "https://www.animocabrands.com/#the-sandbox"
+        },
+        {
+          "@id": "https://www.animocabrands.com/#open-campus"
+        },
+        {
+          "@id": "https://www.animocabrands.com/#anichess"
+        },
+        {
+          "@id": "https://www.animocabrands.com/#animoca-minds"
+        },
+        {
+          "@id": "https://www.animocabrands.com/#nuva"
+        },
+        {
+          "@id": "https://www.animocabrands.com/#anchorpoint-financial"
+        }
+      ],
+      "employee": [
+        {
+          "@id": "https://www.animocabrands.com/#yatsiu"
+        },
+        {
+          "@id": "https://www.animocabrands.com/#evan-auyang"
+        },
+        {
+          "@id": "https://www.animocabrands.com/#robby-yung"
+        },
+        {
+          "@id": "https://www.animocabrands.com/#shaun-kraft"
+        },
+        {
+          "@id": "https://www.animocabrands.com/#brian-chan"
+        },
+        {
+          "@id": "https://www.animocabrands.com/#minh-do"
+        },
+        {
+          "@id": "https://www.animocabrands.com/#jamii-quoc"
+        },
+        {
+          "@id": "https://www.animocabrands.com/#john-madden"
+        },
+        {
+          "@id": "https://www.animocabrands.com/#chris-whiteman"
+        }
+      ],
+      "makesOffer": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Digital Asset Services",
+            "url": "https://www.animocabrands.com/digital-asset-services",
+            "serviceType": "Token Strategy, Research, Marketing, Partnerships, Liquidity Provisioning, Node Operations"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Treasury Management",
+            "url": "https://www.animocabrands.com/institutional-treasury-management",
+            "serviceType": "Risk Diversification, Yield Generation, Node Operations, Arbitrage, Liquid Token Investing, Options Trading, OTC Lending"
+          }
+        }
+      ],
+      "dateModified": "2026-06-03"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.animocabrands.com/#moca-network",
+      "name": "Moca Network",
+      "url": "https://moca.network",
+      "description": "Decentralized identity network with privacy-preserved infrastructure powering decentralized identity and data sovereignty across industries and ecosystems.",
+      "parentOrganization": {
+        "@id": "https://www.animocabrands.com/#organization"
+      },
+      "sameAs": [
+        "https://moca.network"
+      ],
+      "makesOffer": {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "$MOCA",
+          "description": "Utility and governance token for the Moca Network ecosystem.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "contractAddress",
+            "value": "0xf944e35f95e819e752f3ccb5faf40957d311e8c5"
+          }
+        }
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.animocabrands.com/#the-sandbox",
+      "name": "The Sandbox",
+      "url": "https://www.sandbox.game",
+      "description": "Global distribution ecosystem for digital culture, leveraging blockchain and AI to connect brands, creators, and consumers in a unified decentralized economy.",
+      "parentOrganization": {
+        "@id": "https://www.animocabrands.com/#organization"
+      },
+      "sameAs": [
+        "https://www.sandbox.game"
+      ],
+      "makesOffer": {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "$SAND",
+          "description": "Utility token powering The Sandbox ecosystem including the game, DAO, SANDchain, and Corners.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "contractAddress",
+            "value": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0"
+          }
+        }
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.animocabrands.com/#open-campus",
+      "name": "Open Campus",
+      "url": "https://www.opencampus.xyz",
+      "description": "First community-led education protocol building financial and credentialing rails and on-chain EduFI to empower educators, learners and institutions.",
+      "parentOrganization": {
+        "@id": "https://www.animocabrands.com/#organization"
+      },
+      "sameAs": [
+        "https://www.opencampus.xyz"
+      ],
+      "makesOffer": {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "$EDU",
+          "description": "Governance token for the Open Campus DAO and native gas token of EDU Chain.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "contractAddress",
+            "value": "0xf8173a39c56a554837c4c7f104153a005d284d11"
+          }
+        }
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.animocabrands.com/#anichess",
+      "name": "Anichess",
+      "url": "https://anichess.com",
+      "description": "Decentralized chess, fusing traditional gameplay with innovative spell mechanics and esport-style competition for a skill-based, free-to-play experience.",
+      "parentOrganization": {
+        "@id": "https://www.animocabrands.com/#organization"
+      },
+      "sameAs": [
+        "https://anichess.com"
+      ],
+      "makesOffer": {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "$CHECK",
+          "description": "Token for the Anichess ecosystem.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "contractAddress",
+            "value": "0x9126236476efba9ad8ab77855c60eb5bf37586eb"
+          }
+        }
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.animocabrands.com/#animoca-minds",
+      "name": "Animoca Minds",
+      "url": "https://animocaminds.ai",
+      "description": "Your always-on AI partner, awakened in under 60 seconds with no coding. Built by Animoca Labs, co-developed with Ethoswarm. Each Mind has persistent memory, verified identity, and a crypto wallet, operating across Ethereum, Base, Bitcoin, Solana, and Polygon.",
+      "parentOrganization": {
+        "@id": "https://www.animocabrands.com/#organization"
+      },
+      "sameAs": [
+        "https://animocaminds.ai"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.animocabrands.com/#nuva",
+      "name": "NUVA",
+      "url": "https://nuva.finance",
+      "description": "Chain agnostic marketplace developed by Animoca Brands and Nuva Labs (formerly Provenance Blockchain Labs), providing exposure to institutional grade real-world assets via blockchain powered vaults empowering users with liquid and composable tokens.",
+      "parentOrganization": {
+        "@id": "https://www.animocabrands.com/#organization"
+      },
+      "sameAs": [
+        "https://nuva.finance"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.animocabrands.com/#anchorpoint-financial",
+      "name": "Anchorpoint Financial",
+      "url": "https://www.animocabrands.com/joint-venture-anchorpoint-licensed-stablecoin",
+      "description": "Joint venture with Standard Chartered and HKT, pioneering regulated stablecoin issuance in Hong Kong. Developing HKDAP, a Hong Kong dollar-backed stablecoin, under the HKMA stablecoin issuer sandbox. License approved April 2026.",
+      "parentOrganization": {
+        "@id": "https://www.animocabrands.com/#organization"
+      },
+      "makesOffer": {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Product",
+          "@id": "https://www.animocabrands.com/#hkdap",
+          "name": "HKDAP",
+          "description": "Hong Kong dollar-backed stablecoin bridging Web3 and traditional finance under the HKMA stablecoin issuer sandbox framework."
+        }
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.animocabrands.com/#yatsiu",
+      "name": "Yat Siu",
+      "jobTitle": "Co-Founder, Executive Chairman, and Managing Director",
+      "worksFor": {
+        "@id": "https://www.animocabrands.com/#organization"
+      },
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Yat_Siu",
+        "https://x.com/ysiu",
+        "https://hk.linkedin.com/in/yatsiu",
+        "https://www.crunchbase.com/person/yat-siu"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.animocabrands.com/#evan-auyang",
+      "name": "Evan Auyang",
+      "jobTitle": "Group President",
+      "worksFor": {
+        "@id": "https://www.animocabrands.com/#organization"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/evanauyang",
+        "https://x.com/EvanAuyang"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.animocabrands.com/#minh-do",
+      "name": "Minh Do",
+      "jobTitle": "Chief Operating Officer",
+      "worksFor": {
+        "@id": "https://www.animocabrands.com/#organization"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/minh-do-06471323",
+        "https://x.com/minhdo"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.animocabrands.com/#shaun-kraft",
+      "name": "Shaun Kraft",
+      "jobTitle": "Chief Financial Officer",
+      "description": "Chief Financial Officer of Animoca Brands, effective 11 June 2026. Shaun Kraft is a finance executive and strategic operator with experience scaling high-growth technology and financial services businesses across Asia-Pacific and globally. He previously served as Chief Financial Officer and Chief Operating Officer of MoneyHero Group (Nasdaq: MNY), and earlier held senior finance and operating roles at CMCC Global.",
+      "worksFor": {
+        "@id": "https://www.animocabrands.com/#organization"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.animocabrands.com/#brian-chan",
+      "name": "Brian Chan",
+      "jobTitle": "Chief Development Officer",
+      "description": "Chief Development Officer of Animoca Brands and member of the Executive Committee. Brian Chan joined Animoca Brands in 2022 and contributes to growth strategy, governance, organizational processes, institutional partnerships, tokenized real-world asset initiatives, and product leadership across major projects including NUVA.",
+      "worksFor": {
+        "@id": "https://www.animocabrands.com/#organization"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/ymbrian/",
+        "https://x.com/bchan8938"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.animocabrands.com/#jamii-quoc",
+      "name": "Jamii Quoc",
+      "jobTitle": "General Counsel",
+      "worksFor": {
+        "@id": "https://www.animocabrands.com/#organization"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/jamii-quoc-6819a6a4"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.animocabrands.com/#robby-yung",
+      "name": "Robby Yung",
+      "jobTitle": "CEO of Investments",
+      "worksFor": {
+        "@id": "https://www.animocabrands.com/#organization"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/robyung",
+        "https://x.com/viewfromhk"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.animocabrands.com/#john-madden",
+      "name": "John Madden",
+      "jobTitle": "Non-Executive Director and Company Secretary",
+      "worksFor": {
+        "@id": "https://www.animocabrands.com/#organization"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.animocabrands.com/#chris-whiteman",
+      "name": "Chris Whiteman",
+      "jobTitle": "Non-Executive Director",
+      "worksFor": {
+        "@id": "https://www.animocabrands.com/#organization"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.animocabrands.com/#website",
+      "name": "Animoca Brands",
+      "url": "https://www.animocabrands.com",
+      "publisher": {
+        "@id": "https://www.animocabrands.com/#organization"
+      }
+    },
+    {
+      "@type": "DataCatalog",
+      "name": "Animoca Brands Discovery Index",
+      "description": "Machine-readable discovery endpoints for the Animoca Brands ecosystem.",
+      "dataset": [
+        {
+          "@type": "Dataset",
+          "name": "llms.txt",
+          "description": "Narrative context layer for LLMs",
+          "url": "https://www.animocabrands.com/llms.txt"
+        },
+        {
+          "@type": "Dataset",
+          "name": "llms-full.txt",
+          "description": "Exhaustive context layer for RAG systems",
+          "url": "https://www.animocabrands.com/.well-known/llms-full.txt"
+        },
+        {
+          "@type": "Dataset",
+          "name": "agents.json",
+          "description": "AI agent manifest with permissions and capabilities",
+          "url": "https://www.animocabrands.com/.well-known/agents.json"
+        },
+        {
+          "@type": "Dataset",
+          "name": "Announcements RSS",
+          "description": "Live feed of company announcements",
+          "url": "https://www.animocabrands.com/announcement/rss.xml"
+        },
+        {
+          "@type": "Dataset",
+          "name": "Vision Hub RSS",
+          "description": "Live feed of thought leadership articles by Yat Siu",
+          "url": "https://www.animocabrands.com/vision-hub/rss.xml"
+        },
+        {
+          "@type": "Dataset",
+          "name": "Sitemap",
+          "description": "Full site index",
+          "url": "https://www.animocabrands.com/sitemap.xml"
+        }
+      ]
+    }
+  ]
+}
