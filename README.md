@@ -64,6 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Animoca Brands is a company surfaced as a portfolio company of softbank-vision-fund and added to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the enrichment pipeline.
+Animoca Brands is a Web3 company focused on advancing digital property rights and building the open metaverse through blockchain technology, gaming, and digital assets. Founded in Hong Kong, the company operates a portfolio of consumer products including The Sandbox, Moca Network (digital identity), Open Campus (education), and Anichess, alongside institutional offerings such as Anchorpoint Financial (stablecoins and real-world assets) and NUVA (treasury management). Animoca Brands is also one of the most active investors in Web3, backing 600+ builders across gaming, infrastructure, real-world assets, and digital-ownership platforms. This profile was surfaced as a portfolio company of the SoftBank Vision Fund and added to the API Evangelist network; Animoca operates primarily as a holding and investment company and does not publish a first-party public developer API.
 
-Backed by: softbank-vision-fund
+**Areas:** Company · Consumer · Web3 · Blockchain · Gaming · Metaverse · Digital Assets · Cryptocurrency · Investment
+
+## Animoca Brands on APIs.io
+
+Everything profiled for Animoca Brands is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/animoca-brands/](https://apis.io/providers/animoca-brands/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Animoca Brands Domain Security](https://apis.io/security/animoca-brands/animoca-brands-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.animocabrands.com)
+- [Blog](https://www.animocabrands.com/newsroom)
+- [Terms of service](https://policy.animocabrands.com/terms-of-use-for-non-apple-platforms)
+- [Privacy policy](https://policy.animocabrands.com/privacy-policy-website)
+
+## API Evangelist rating
+
+**Kin Score 10.0** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 21.1 |
+
+**Agent readiness 2.2** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | yes |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/animoca-brands/](https://apis.io/providers/animoca-brands/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Animoca Brands: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/animoca-brands/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
